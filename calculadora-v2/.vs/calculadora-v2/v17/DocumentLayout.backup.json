@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Desktop\\wagner-oliveira\\logica-de-programacao\\calculadora-v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6ECDDB-B343-4F2A-877A-275C3C4817BB}|calculadora-v2\\calculadora-v2.csproj|d:\\users\\aluno\\desktop\\wagner-oliveira\\logica-de-programacao\\calculadora-v2\\calculadora-v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D6ECDDB-B343-4F2A-877A-275C3C4817BB}|calculadora-v2\\calculadora-v2.csproj|solutionrelative:calculadora-v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6ECDDB-B343-4F2A-877A-275C3C4817BB}|calculadora-v2\\calculadora-v2.csproj|d:\\users\\aluno\\desktop\\wagner-oliveira\\logica-de-programacao\\calculadora-v2\\calculadora-v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6ECDDB-B343-4F2A-877A-275C3C4817BB}|calculadora-v2\\calculadora-v2.csproj|solutionrelative:calculadora-v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\wagner-oliveira\\logica-de-programacao\\calculadora-v2\\calculadora-v2\\Form1.cs",
+              "RelativeDocumentMoniker": "calculadora-v2\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\wagner-oliveira\\logica-de-programacao\\calculadora-v2\\calculadora-v2\\Form1.cs",
+              "RelativeToolTip": "calculadora-v2\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:53:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\wagner-oliveira\\logica-de-programacao\\calculadora-v2\\calculadora-v2\\Form1.cs",
+              "RelativeDocumentMoniker": "calculadora-v2\\Form1.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\wagner-oliveira\\logica-de-programacao\\calculadora-v2\\calculadora-v2\\Form1.cs [Design]",
+              "RelativeToolTip": "calculadora-v2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:45:33.195Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

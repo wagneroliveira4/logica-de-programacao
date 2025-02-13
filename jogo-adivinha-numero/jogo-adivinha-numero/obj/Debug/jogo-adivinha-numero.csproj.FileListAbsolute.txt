@@ -1,0 +1,10 @@
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\bin\Debug\jogo-adivinha-numero.exe.config
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\bin\Debug\jogo-adivinha-numero.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\bin\Debug\jogo-adivinha-numero.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\obj\Debug\jogo-adivinha-numero.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\obj\Debug\jogo_adivinha_numero.Form1.resources
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\obj\Debug\jogo_adivinha_numero.Properties.Resources.resources
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\obj\Debug\jogo-adivinha-numero.csproj.GenerateResource.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\obj\Debug\jogo-adivinha-numero.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\obj\Debug\jogo-adivinha-numero.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\jogo-adivinha-numero\jogo-adivinha-numero\obj\Debug\jogo-adivinha-numero.pdb

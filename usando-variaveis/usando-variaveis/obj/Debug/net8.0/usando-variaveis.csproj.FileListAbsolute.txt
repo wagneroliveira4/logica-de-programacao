@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\usando-variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\usando-variaveis.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\usando-variaveis.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\usando-variaveis.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\bin\Debug\net8.0\usando-variaveis.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\bin\Debug\net8.0\usando-variaveis.deps.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\bin\Debug\net8.0\usando-variaveis.runtimeconfig.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\bin\Debug\net8.0\usando-variaveis.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\bin\Debug\net8.0\usando-variaveis.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\usando-variaveis.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\refint\usando-variaveis.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\usando-variaveis.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\usando-variaveis.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\usando-variaveis\usando-variaveis\obj\Debug\net8.0\ref\usando-variaveis.dll

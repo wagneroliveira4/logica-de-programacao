@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\bin\Debug\net8.0\geometria.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\bin\Debug\net8.0\geometria.deps.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\bin\Debug\net8.0\geometria.runtimeconfig.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\bin\Debug\net8.0\geometria.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\bin\Debug\net8.0\geometria.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\geometria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\geometria.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\geometria.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\geometria.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\geometria.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\refint\geometria.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\geometria.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\geometria.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\geometria\geometria\obj\Debug\net8.0\ref\geometria.dll

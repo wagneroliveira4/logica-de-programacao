@@ -1,0 +1,10 @@
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\bin\Debug\media-aluno.exe.config
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\bin\Debug\media-aluno.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\bin\Debug\media-aluno.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\obj\Debug\media-aluno.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\obj\Debug\media_aluno.Form1.resources
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\obj\Debug\media_aluno.Properties.Resources.resources
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\obj\Debug\media-aluno.csproj.GenerateResource.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\obj\Debug\media-aluno.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\obj\Debug\media-aluno.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\media-aluno\media-aluno\obj\Debug\media-aluno.pdb
